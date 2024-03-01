@@ -5,7 +5,7 @@ public class NewTest {
     @Test
     public void newTest() {
 
-        int = 6;
+        int = 31;
         Assertions.assertTrue(condition i > 2);
 
     }
