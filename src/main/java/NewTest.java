@@ -4,6 +4,6 @@ public class NewTest {
 
     @Test
     public void newTest() {
-            Assertions.assertTrue(condition 5 > 2)
+            Assertions.assertTrue(condition 6 > 2)
     }
 }
